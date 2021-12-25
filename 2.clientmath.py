@@ -3,7 +3,7 @@ import signal
 import sys
 
 ClientSocket = socket.socket()
-host = '192.168.56.101'
+host = 'put your server ip'
 port = 8895
 
 print('Waiting for connection')
